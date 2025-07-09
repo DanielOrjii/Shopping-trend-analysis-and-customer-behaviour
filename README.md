@@ -1,5 +1,6 @@
 # Shopping-trend-analysis-and-customer-behaviour
 **Project Overview**
+
 The dataset used for this analysis was sourced from Kaggle and focuses on shopping trends. The goal was to identify patterns, trends, and relationships between season, location, age, and gender and how these factors influence customer shopping behavior. The dataset was imported into Power BI, where data transformation and analysis were conducted using Power Query and DAX.
 
 Data Preparation and Cleaning
@@ -12,6 +13,7 @@ Removing unnecessary records and duplicate entries to maintain data integrity.
 Conducting column quality checks using Column Profile, Column Distribution, and Column Quality tools.
 
 **Data Analysis and DAX Implementation**
+
 Following data cleaning, calculated columns and measures were created using DAX to extract deeper insights, including:
 
 Total Revenue
@@ -29,6 +31,7 @@ Purchasing Power per Customer
 These measures provided a comprehensive view of customer behavior and allowed for more targeted analysis.
 
 **Visualizations and Interactivity**
+
 A variety of visuals were developed to effectively communicate insights:
 
 Bar charts, pie charts, and maps were used to reveal trends and patterns across different dimensions.
@@ -38,6 +41,7 @@ Interactive filters were added to enable more granular exploration of the data.
 The dashboard design, including wallpaper and theme, was inspired by a YouTube tutorial titled “Transform your Power BI in 20 Minutes” by Power BI Park.
 
 **Insights and Observations**
+
 A semantic inconsistency was found in the purchase frequency column due to varied naming conventions. This was corrected by standardizing terms to ensure accurate reporting.
 
 The Fall season generated the highest revenue despite having fewer purchase occurrences than Spring. This is likely due to:
@@ -53,6 +57,7 @@ Quarterly shoppers taking advantage of deep discounts
 Cities such as Illinois, with a high number of customers but low subscription rates (24%), highlight the need for targeted loyalty strategies.
 
 **Recommendations**
+
 Targeted Promotions:
 
 Launch more discount programs and advertisements focused on female customers to boost engagement and subscriptions.
