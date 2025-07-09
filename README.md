@@ -1,9 +1,10 @@
 # Shopping-trend-analysis-and-customer-behaviour
 **Project Overview**
 
-The dataset used for this analysis was sourced from Kaggle and focuses on shopping trends. The goal was to identify patterns, trends, and relationships between season, location, age, and gender and how these factors influence customer shopping behavior. The dataset was imported into Power BI, where data transformation and analysis were conducted using Power Query and DAX.
+The dataset used for this analysis was sourced from Kaggle and focuses on shopping trends. The goal was to identify patterns, trends, and relationships between season, location, age, and gender and how these factors influence customer shopping behavior. The dataset was imported into Power BI, where data transformation and analysis were conducted using Power Query and DAX. Link to Power BI dashboard is attached below;
+https://app.powerbi.com/groups/me/reports/dedaabf4-1f42-4108-b9ac-48310c60b489/93cea143b3cea9756d2e?experience=power-bi
 
-Data Preparation and Cleaning
+**Data Preparation and Cleaning**
 The data cleaning process was carried out in Power Query to ensure the accuracy and reliability of the dataset for effective decision-making. Key steps included:
 
 Standardizing categorical values: Instances where different terms referred to the same frequency (e.g., biweekly vs. fortnightly, quarterly vs. every 3 months) were unified for consistency.
