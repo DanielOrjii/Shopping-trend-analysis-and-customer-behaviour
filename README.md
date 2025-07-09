@@ -2,6 +2,7 @@
 **Project Overview**
 
 The dataset used for this analysis was sourced from Kaggle and focuses on shopping trends. The goal was to identify patterns, trends, and relationships between season, location, age, and gender and how these factors influence customer shopping behavior. The dataset was imported into Power BI, where data transformation and analysis were conducted using Power Query and DAX. Link to Power BI dashboard is attached below;
+
 https://app.powerbi.com/groups/me/reports/dedaabf4-1f42-4108-b9ac-48310c60b489/93cea143b3cea9756d2e?experience=power-bi
 
 **Data Preparation and Cleaning**
